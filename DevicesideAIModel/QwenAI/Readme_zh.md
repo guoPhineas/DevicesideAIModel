@@ -8,9 +8,10 @@
 
 ### 准备环境和模型
 
-首先，需要注意安装Metal Toolchain：这个在Xcode - Setting中安装即可。在项目中，添加[coreai-models](https://github.com/apple/coreai-models)这个Swift Package，将`CoreAILM` Labrary添加到你的App Target中。
+首先，需要注意安装Metal Toolchain：这个在Xcode - Setting中安装即可。
 
-现在项目中就有coreai-models了，终端进入到这个Package的文件夹，执行：
+[coreai-models](https://github.com/apple/coreai-models)这个Swift Package已添加到项目和App Target中了，终端进入到这个Package的文件夹，执行：
+
 ```shell
 uv run coreai.llm.export Qwen/Qwen3-4B --platform iOS
 ```
