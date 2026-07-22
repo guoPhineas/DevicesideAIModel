@@ -14,7 +14,9 @@ A sample device-side LLM chat app using CoreAI framework.
 
 ## ScreenRecording
 
-![](./imgs/ScreenRecording.MP4)
+
+
+https://github.com/user-attachments/assets/dcb01a4d-0a30-4daa-951c-04ce7b76b3f1
 
 
 
