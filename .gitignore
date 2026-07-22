@@ -61,7 +61,7 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 
-/DevicesideAIModel/QwenAI/
+/DevicesideAIModel/QwenAI/*
 !/DevicesideAIModel/QwenAI/*.md
 
 .DS_Store
