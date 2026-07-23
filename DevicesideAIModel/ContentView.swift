@@ -19,7 +19,7 @@ struct ContentView: View {
                     onUpdate(#"""
 > [!IMPORTANT]
 >
-> Is processing, please wait for the last request finfished.
+> Is processing, please wait until the last request is finished.
 """#)
                     return
                 }

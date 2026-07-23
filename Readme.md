@@ -1,6 +1,6 @@
 # DevicesideAIModel
 
-A sample device-side LLM chat app using CoreAI framework.
+A sample on-device LLM chat app using CoreAI framework.
 
 
 
